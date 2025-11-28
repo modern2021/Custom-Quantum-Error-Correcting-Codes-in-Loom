@@ -95,6 +95,7 @@ Z̄3 = Z6 Z7
 ✔ Z̄i commutes with all stabilizers  
 ✔ {X̄i, Z̄i} = 0 (anticommute)  
 ✔ All others commute
+<img width="1091" height="738" alt="Screenshot 2025-11-28 170635" src="https://github.com/user-attachments/assets/ef5c3e1a-a54c-4c8b-96fb-fbe4923ebb9e" />
 
 ---
 
@@ -147,6 +148,8 @@ We generate **6 pairs (X̄i, Z̄i)** such that:
 - X̄i commutes with Z̄j (i ≠ j)
 
 These were implemented directly as `PauliOperator` objects.
+<img width="1098" height="824" alt="Screenshot 2025-11-28 170746" src="https://github.com/user-attachments/assets/a37599ac-5c2d-4401-8da0-5ae1ea9b442e" />
+<img width="1096" height="820" alt="Screenshot 2025-11-28 170819" src="https://github.com/user-attachments/assets/7a4b2d67-9621-4c4f-8b0d-3be8f402df2a" />
 
 ---
 
